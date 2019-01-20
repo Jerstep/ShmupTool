@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/prototype.unity
+    guid: 8c65ec0c9ceb8894496439324fd08690
+  - enabled: 1
+    path: Assets/Scenes/P1Wins.unity
+    guid: 49dbf8eaad97f51469cec9f4bd94a9b7
+  - enabled: 1
+    path: Assets/Scenes/P2Wins.unity
+    guid: 46e126cbb87851845bcf798518ebed48
+  - enabled: 1
+    path: Assets/Scenes/Draw.unity
+    guid: bd3a6b7a627d2434e97fe05af9b5ce04
+  m_configObjects: {}
